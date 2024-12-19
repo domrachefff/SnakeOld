@@ -1,6 +1,7 @@
 # SnakeOld
 
-![Скриншот игры SnakeOld](https://github.com/domrachefff/SnakeOld/blob/main/SnakeOld/Screenshots/screenshot.PNG)
+<img src="https://github.com/domrachefff/SnakeOld/blob/main/SnakeOld/Screenshots/screenshot.PNG" alt="Скриншот игры SnakeOld" width="300">
+
 
 **SnakeOld** — это классическая игра "Змейка", реализованная с использованием SwiftUI для iOS.
 
